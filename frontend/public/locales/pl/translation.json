@@ -1,0 +1,12 @@
+{
+    "Header_top": "Cześć! Jestem Adam",
+    "Header_bottom": "Junior Full Stack Developer",
+    "Header_btn_about": "O MNIE",
+    "Header_btn_recruitment": "REKRUTACJA",
+    "Contact_text_header": "NAPISZ DO MNIE!",
+    "Contact_text_context": "Jeżeli poszukujesz kogoś do stworzenia aplikacji, mini gry czy zwykłej strony to zapraszam do kontaktu przez formularz.",
+    "Contact_text_footer": "Znajdziesz mnie też na ",
+    "Contact_form_input_name" : "Imię",
+    "Contact_form_input_mail" : "Mail",
+    "Contact_form_input_sub" : "Temat"
+}
